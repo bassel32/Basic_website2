@@ -1,9 +1,10 @@
-# Basic_website2
+# This is how to code
 <!Doctype html>
-<html>
-
-<title>This is how to code </title>
-<p> So to code you have to code. I personally like dinasours so here is a link about dinasours.</p>
+<head>
+  <title>HTML Tutorial</title>
+</head>
+<body>
+<p> Coding is fun. I personally like dinasours so here is a link about dinasours.</p>
 <a href="https://www.youtube.com/watch?v=9ro-Qyatyhk">This is a link about dinasours.</a>
 
 <h3> This is what you need to know about dinasours</h3>
